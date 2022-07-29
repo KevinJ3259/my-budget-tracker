@@ -1,7 +1,7 @@
-  {
+{
   "name": "my-budget-tracker",
   "version": "1.0.0",
-  "description": "",
+  "description": "A budget tracker app that allows the user to access the app offline.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -21,8 +21,8 @@
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.18.1",
+    "lite-server": "^2.6.1",
     "mongoose": "^6.4.6",
     "morgan": "^1.10.0"
   }
 }
-
