@@ -4,7 +4,7 @@ A budget tracker app that allows the user to add expenses and make deposits whil
 
 [Check out the Budget Tracker Here]
 
-![](my-budget-tracker-screenshot.jpg)
+![](https://imgur.com/wyEVABM)
 
 # Description
 
